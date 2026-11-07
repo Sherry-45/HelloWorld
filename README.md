@@ -12,5 +12,5 @@ java HelloWorld
 预期输出：
 
 ```text
-Hello, World!
+Hello, World! (updated in workspace-a)
 ```
